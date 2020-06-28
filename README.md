@@ -9,8 +9,9 @@ KoBERT: https://github.com/SKTBrain/KoBERT
 monolog/KoBERT: https://github.com/monologg/KoBERT-Transformers
 
 
-#실행법
+##실행법
 
-1. tokenization_kobert.py를 import한다
-2. ko_data.csv와 ko_sample.csv를 업로드하여 테스트한다
+1. COSE461K_NSMC_16조.ipynb를 실행한다
+2. tokenization_kobert.py를 import한다
+3. ko_data.csv와 ko_sample.csv를 업로드하여 테스트한다
 
